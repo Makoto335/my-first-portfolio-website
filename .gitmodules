@@ -1,0 +1,6 @@
+[submodule "rails"]
+	path = rails
+	url = https://github.com/Makoto335/portfolio-rails
+[submodule "vue"]
+	path = vue
+	url = https://github.com/Makoto335/portfolio-vue
